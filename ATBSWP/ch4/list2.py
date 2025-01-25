@@ -1,4 +1,6 @@
-lst = [3, 1, 5, 2, 4]
-lst.sort() 
+# list = [1, 2, 3, 4, 5]
+# print(list)
 
-print(lst)
+
+
+
