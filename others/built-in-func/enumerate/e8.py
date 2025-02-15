@@ -1,0 +1,1 @@
+print(list(reversed([3, 2, 1])))
