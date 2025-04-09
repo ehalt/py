@@ -14,4 +14,8 @@ problem5 : https://www.codewars.com/kata/568dc014440f03b13900001d --> [solution]
 
 problem6 : https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89 --> [solution](https://github.com/ehalt/py/blob/main/Solutions/CW/The_wide_mouthed_frog.py)
 
+problem7: https://www.codewars.com/kata/55c90cad4b0fe31a7200001f --> [solution](https://github.com/ehalt/py/blob/main/Solutions/CW/String_template_fixing_bug.py)
+
+problem8: https://www.codewars.com/kata/57ab2d6072292dbf7c000039 --> [solution](https://github.com/ehalt/py/blob/main/Solutions/CW/polish_alphabet.py) 
+
 
