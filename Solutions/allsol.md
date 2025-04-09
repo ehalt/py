@@ -12,4 +12,6 @@ problem4 : https://www.codewars.com/kata/57a0e5c372292dd76d000d7e --> [solution]
 
 problem5 : https://www.codewars.com/kata/568dc014440f03b13900001d --> [solution](https://github.com/ehalt/py/blob/main/Solutions/CW/Bartender-drinks.py)
 
+problem6 : https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89 --> [solution](https://github.com/ehalt/py/blob/main/Solutions/CW/The_wide_mouthed_frog.py)
+
 
